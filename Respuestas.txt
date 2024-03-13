@@ -1,0 +1,20 @@
+1. ¿Qué significa SaaS?
+
+R/ A)Software as a Service (Software como Servicio)
+
+2. ¿Cuál de las siguientes tecnologías es ampliamente utilizada en el desarrollo de aplicaciones
+web?
+
+R/ A) HTML
+
+3. ¿Cuál de las siguientes afirmaciones es verdadera acerca de los servicios web RESTful?
+
+R/ c) Utilizan URL y métodos HTTP para la comunicación.
+
+4. ¿Cuál de las siguientes afirmaciones describe mejor la arquitectura de microservicios?
+
+R/ b) Divide una aplicación en pequeños servicios independientes y desacoplados.
+
+5. ¿Qué es Git y para qué se utiliza comúnmente en el desarrollo de software?
+
+R/ c) Es una herramienta para el control de versiones de código fuente.
